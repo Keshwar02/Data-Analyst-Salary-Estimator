@@ -89,7 +89,7 @@ Extracted data has no missing values and duplicate records. Following changes we
 - **Transformed founded date into age of the company**
 ***
 
-### Exploratory Data Analysis (EDA)
+### Exploratory Data Analysis
 As the data clean and consistent, In this phase of the project we explore the data to uncover patters, relationships, and gain initial insights into Data Analyst job market and salary trends.
 
 **Objectives in EDA**
