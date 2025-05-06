@@ -12,7 +12,7 @@
 - [Methodology](#Methodology)
   - [Scraping Data](#Scraping-Data)
   - [Data Cleaning](#Data-Cleaning)
-  - [Exploratory Data Analysis(EDA)](#Exploratory-Data-Analysis(EDA))
+  - [Exploratory Data Analysis(EDA)](#Exploratory-Data-Analysis-(EDA))
   - [Building Model](#Building-Model)
   - [Model Evaluation](#Model-Evaluation)
   - [Deploying Model](#Deploying-Model)
