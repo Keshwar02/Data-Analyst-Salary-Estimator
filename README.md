@@ -3,7 +3,7 @@
 - Scraped over 500 job listings from glassdoor using python and selenium.
 - Extensive data cleaning was essential to refine the scraped data, making it suitable for accurate analysis and interpretation.
 - Fine-tuned model parameters using GridSeachCV to achieve optimal performance.
-- Deployed the trained model as a client-facing web application using Flask.
+- Deployed the trained model as a client-facing API using Flask.
 ***
 
 ## Table of Contents
