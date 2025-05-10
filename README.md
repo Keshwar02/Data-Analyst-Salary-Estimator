@@ -1,5 +1,5 @@
-# Data Analyst Salary Estimator: Project Overview
-- Built a model that estimates data analyst salaries with an (MAE of $12K).
+# Data Science Job Market Analysis: Project Overview
+- Built a model that estimates data science salaries with an (MAE of $12K).
 - Scraped over 500 job listings from glassdoor using python and selenium.
 - Extensive data cleaning was essential to refine the scraped data, making it suitable for accurate analysis and interpretation.
 - Fine-tuned model parameters using GridSeachCV to achieve optimal performance.
@@ -19,9 +19,9 @@
 ***
 
 ## Introduction
-Understanding the landscape of the Data Analyst job market, from typical salary ranges to the factors that drive them, is crucial for individuals navigating their careers. This project aims to shed light on these dynamics by collecting and rigorously analyzing a substantial dataset of Data Analyst job listings from Glassdoor. Beyond simply predicting compensation, a key focus of this endeavor is to visually represent the trends and relationships within the data, offering a clearer understanding of the forces shaping this evolving field.
+Understanding the landscape of the Data Science job market, from typical salary ranges to the factors that drive them, is crucial for individuals navigating their careers. This project aims to shed light on these dynamics by collecting and rigorously analyzing a substantial dataset of Data Analyst job listings from Glassdoor. Beyond simply predicting compensation, a key focus of this endeavor is to visually represent the trends and relationships within the data, offering a clearer understanding of the forces shaping this evolving field.
 
-The culmination of this project is a two-fold offering: a machine learning model capable of estimating Data Analyst salaries, and a suite of insightful data visualizations. The predictive model is deployed as a API via Flask, while the visualizations serve to reveal key market trends and provide a deeper understanding of the factors influencing salaries. Together, these components empower users with data-driven insights for more informed career decisions and a comprehensive view of the Data Analyst job market.
+The culmination of this project is a two-fold offering: a machine learning model capable of estimating Data Analyst salaries, and a suite of insightful data visualizations. The predictive model is deployed as a API via Flask, while the visualizations serve to reveal key market trends and provide a deeper understanding of the factors influencing salaries. Together, these components empower users with data-driven insights for more informed career decisions and a comprehensive view of the Data Science job market.
 ***
 
 ## Project Requirements and Prerequisites
